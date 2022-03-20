@@ -99,17 +99,15 @@ color:rgb(151, 0, 144) ;
 }
 
 @media (max-width: 450px) {
-  body{
-    display: inline;
-  }
+
   .container {
     padding: 20px;
   }
-  .top {
+  .;
+  }top {
     z-index: -1;
     bottom: 300px;
-    margin-left: -750px;
-  }
+    margin-left: -750px
   .bottom {
       
  position:fixed;
