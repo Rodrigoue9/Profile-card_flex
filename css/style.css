@@ -104,12 +104,10 @@ color:rgb(151, 0, 144) ;
     padding: 20px;
   }
   
-  top {
-  
-  
-    display: none;}
+  .top {
+display: none;
+  }
     .bottom { 
-      
- display: none;
+     display: none;
   }
 }
