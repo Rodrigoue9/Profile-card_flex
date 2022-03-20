@@ -105,14 +105,9 @@ color:rgb(151, 0, 144) ;
   }
   
   top {
-    z-index: -1;
-    bottom: 300px;
-    margin-left: -750px
+   display: none;
   .bottom {
       
- position:fixed;
-    z-index: -1;
-    margin-top: 300px;
-    right: -790px;
+ display: none;
   }
 }
