@@ -98,7 +98,7 @@ body {
 color:rgb(151, 0, 144) ;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   body{
     display: inline;
   }
