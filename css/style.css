@@ -99,17 +99,20 @@ color:rgb(151, 0, 144) ;
 }
 
 @media (max-width: 400px) {
+  body{
+    display: inline;
+  }
   .container {
     padding: 20px;
   }
   .top {
     z-index: -1;
-    position: absolute;
     bottom: 300px;
     margin-left: -750px;
   }
   .bottom {
-    position: absolute;
+      
+ position:fixed;
     z-index: -1;
     margin-top: 300px;
     right: -790px;
