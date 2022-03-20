@@ -105,8 +105,10 @@ color:rgb(151, 0, 144) ;
   }
   
   top {
+  }
+  
    display: none;
-  .bottom {
+    .bottom { 
       
  display: none;
   }
